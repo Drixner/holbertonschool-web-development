@@ -1,7 +1,5 @@
 # HTML Advanced Project
 
-Click [HERE]() to launch HTML/CSS Projects Website
-
 ## General
 
 The aim of this project is to convert a simple, visual template of a website from wireframe to HTML using Figma. This project will be completed using HTML, Javascript, and CSS.
