@@ -1,0 +1,32 @@
+body {
+  block-size: fit-content;
+  width: fit-content;
+  overflow: auto;
+}
+
+
+.imgBackground {
+  background-image: url("./images/background.png");
+  /* background-repeat: no-repeat; */
+  background-size: cover;
+  /* background-position: center; */
+}
+
+header {
+  margin-left: 171.59px;
+  margin-right: 165px;
+  padding-top: 35.02px;
+  font-family: "Source Sans Pro", sans-serif;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: transparent;
+}
+
+header a {
+  text-decoration: none;
+  margin-left: 30px;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 0.75em;
+}
